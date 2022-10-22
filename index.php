@@ -1,3 +1,6 @@
 <?php
 
-include_once 'template/bagan/head.php';
+
+
+
+include_once('template/index.php');

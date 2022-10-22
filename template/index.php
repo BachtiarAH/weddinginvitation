@@ -1,2 +1,6 @@
 <?php
-include_once('template/index.php');
+
+include_once ('komponen/header.php');
+include_once ('bagan/sampul.php');
+include_once ('bagan/home.php');
+include_once ('komponen/footer.php');
