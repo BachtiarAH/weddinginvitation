@@ -1,0 +1,36 @@
+.prokes{
+    width: 100%;
+    background-color: #F2EEE3;
+}
+
+.teksjudul.prokes {
+    color: #E3B063;
+    font-family: 'Dancing Script', cursive;
+    font-size: 48px;
+}
+
+.teks.prokes {
+    color: #835C23;
+    font-family: 'Crimson Pro', cursive;
+    font-size: 16px;
+}
+
+.kotak.prokes {
+    width: 257px;
+    height: 297px;
+    padding: 20px;
+    background: white;
+    margin: 0;
+    box-shadow: 4px 4px #B2B2B2;
+    border-radius: 25px;
+}
+
+.tengah.prokes {
+    margin-left: auto;
+    margin-right: auto;
+    width: 68%;
+}
+
+.teksalign.prokes {
+    text-align: center;
+}

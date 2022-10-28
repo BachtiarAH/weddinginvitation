@@ -26,6 +26,7 @@
 
     <!-- css local -->
     <link rel="stylesheet" href="css/style-home.css">
+    <link rel="stylesheet" href="css/style-prokes.css">
 </head>
 
 <body>
