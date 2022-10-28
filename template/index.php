@@ -9,7 +9,7 @@ include_once('template/bagan/home.php');
 include_once('template/bagan/couple.php');
 include_once('template/bagan/event.php');
 include_once('template/bagan/prokes.php');
-include_once('template/bagan/whishes.php');
+include_once('template/bagan/wishes.php');
 ?>
 </div>
 <?php
