@@ -1,0 +1,42 @@
+.whishes {
+    width: 100%;
+    background-color: #F2EEE3;
+}
+
+.teksjudul {
+    color: #E3B063;
+    font-family: 'Dancing Script', cursive;
+    font-size: 48px;
+}
+
+.tekspengertianqs {
+    color: #835C23;
+    font-family: 'Crimson Pro', cursive;
+    font-style: italic;
+    font-size: 16px;
+}
+
+.teks {
+    color: #835C23;
+    font-family: 'Crimson Pro', cursive;
+    font-size: 16px;
+}
+
+.teksalign {
+    text-align: center;
+}
+
+.kotak {
+    width: 257px;
+    height: 297px;
+    padding: 20px;
+    background-color: white;
+    margin: 0;
+    box-shadow: 4px 4px #B2B2B2;
+}
+
+.tengah {
+    margin-left: auto;
+    margin-right: auto;
+    width: 68%;
+}
