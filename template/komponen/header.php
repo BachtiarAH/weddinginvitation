@@ -17,7 +17,7 @@
     <script src="js/uk/js/uikit-icons.min.js"></script>
 
     <!-- css -->
-    <link rel="stylesheet" href="css/style.css">
+    
 
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@8/swiper-bundle.min.css" />
 
@@ -26,6 +26,7 @@
     <link href="https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap" rel="stylesheet">
 
     <!-- css local -->
+    <link rel="stylesheet" href="css/style.css">
     <link rel="stylesheet" href="css/style-home.css">
     <link rel="stylesheet" href="css/style-prokes.css">
     <link rel="stylesheet" href="css/style-wishes.css">
