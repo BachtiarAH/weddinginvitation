@@ -28,6 +28,7 @@
     <!-- css local -->
     <link rel="stylesheet" href="css/style.css">
     <link rel="stylesheet" href="css/style-home.css">
+    <link rel="stylesheet" href="css/style-event.css">
     <link rel="stylesheet" href="css/style-prokes.css">
     <link rel="stylesheet" href="css/style-wishes.css">
 </head>
