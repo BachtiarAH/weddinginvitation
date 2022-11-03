@@ -1,0 +1,7 @@
+@font-face {
+    font-family: "Dancing-Script";
+    src: url("../asset/font/Dancing_Script/DancingScript-VariableFont_wght.ttf"),
+    /* src: url("https://yoursite.com/css/fonts/CustomFont.woff") format("woff"), */
+    url("../asset/font/Dancing_Script/DancingScript-VariableFont_wght.ttf") format("opentype");
+    /* url("https://yoursite.com/css/fonts/CustomFont.svg#filename") format("svg"); */
+    }

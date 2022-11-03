@@ -1,48 +1,69 @@
 .nama {
-  font-family: "Dancing Script", cursive;
+  font-family: "Dancing-Script", cursive;
+  font-size: 96px;
+  color: #835C23;
+  margin: 0;
 }
 
+
 div.kata-kata {
-    position: absolute;
+  position: relative;
   z-index: 102;
   /* margin-top: 100px; */
   text-align: center;
+  width: 100%;
+  color: #835C23;
+  top: 15%;
 }
 
-div.margin-top{
-    height: 13vh;
-    /* background-color: brown; */
+div.margin-top {
+  /* height: 5vh; */
+  /* background-color: brown; */
+}
+
+.tamu{
+  font-family: "Dancing-Script", cursive;
+  font-size: 36px;
+}
+
+.undang{
+  font-family: "Dancing-Script";
+  font-size: 32px;
+  margin: 0;
 }
 
 
-#background-1{
+
+#background-1 {
   position: absolute;
   top: 0;
   right: 0;
-  width: 200px;
+  width: 50%;
+  height: 100%;
   transform: rotate(180deg);
 }
 
-#background-2{
+#background-2 {
   position: absolute;
   bottom: 0;
   left: 0;
-  width: 200px;
+  width: 50%;
+  height: 100%;
   /* transform: rotate(180deg); */
 }
 
-.backgroud-kanan{
-    position: absolute;
-    /* z-index: 101; */
-    top: 0;
-    /* right: 0; */
-    background-color: brown;
-    /* background-image: url("../asset/sampul/rangkaian_bunga.png"); */
-    background-size: contain;
-    background-position-x: 20%;
-    background-position-y: center;
-    background-repeat: no-repeat;
-    width: 100vw;
-    height: 100vh;
-    transform: rotate(180deg);
+.backgroud-kanan {
+  position: absolute;
+  /* z-index: 101; */
+  top: 0;
+  /* right: 0; */
+  background-color: brown;
+  /* background-image: url("../asset/sampul/rangkaian_bunga.png"); */
+  background-size: contain;
+  background-position-x: 20%;
+  background-position-y: center;
+  background-repeat: no-repeat;
+  width: 100vw;
+  height: 100vh;
+  transform: rotate(180deg);
 }
