@@ -1,0 +1,10 @@
+div.couple{
+    background-color: #D1BAA3;
+    height: 1843px;
+}
+
+div.background-atas{
+    background-image: url("../asset/couple/couple-background.png");
+    height: 14%;
+    width: 100%;
+}

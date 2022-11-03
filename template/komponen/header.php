@@ -35,6 +35,7 @@
     <link rel="stylesheet" href="css/style-event.css">
     <link rel="stylesheet" href="css/style-prokes.css">
     <link rel="stylesheet" href="css/style-wishes.css">
+    <link rel="stylesheet" href="css/style-couple.css">
 </head>
 
 <body >
