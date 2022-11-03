@@ -1,21 +1,25 @@
 
-.sampul {
-    position: fixed;
+div.sampul {
+    position: sticky;
     width: 100%;
-    height: 100vmax;
+    height: 100vh;
     z-index: 100;
+    /* bottom: 0; */
+    top: 0;
+    background-color: chocolate;
 }
 
 .sampul_belum_pencet {
 
-    background-color: chocolate;
+    
 
 
 }
 
-.sampul_terpencet {
+div.sampul_terpencet {
+    position: absolute;
     color: cadetblue;
-    background-color: aqua;
+    /* background-color: aqua; */
     transition: 1000ms;
     transform: translateY(-110%);
 }
@@ -24,9 +28,10 @@ body {
     background-color: white;
 }
 
-.bungkus{
+.isi{
+    /* margin-top: -100vmax; */
     max-width: 360px;
     width: 100%;
     color: black;
-    margin: auto;
+    margin: auto auto auto auto;
 }

@@ -1,4 +1,4 @@
-<div class="sampul sampul_belum_pencet" id="awal" onclick="KeatasSampeIlang()">
+<div class="sampul sampul_belum_pencet sticky" id="awal" onclick="KeatasSampeIlang()">
     <div class="">
         <div class="">Kepada yth<br />bapak/1bu/saudara/i</div>
         <div class="tamu"><?php if (isset($_GET['to'])) {
