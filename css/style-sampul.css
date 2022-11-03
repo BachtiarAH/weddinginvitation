@@ -1,23 +1,48 @@
 .nama {
-    font-family: 'Dancing Script', cursive;
+  font-family: "Dancing Script", cursive;
 }
 
-.sampul {
+div.kata-kata {
     position: absolute;
-    width: 100%;
-    height: 100%;
-    z-index: 100;
+  z-index: 102;
+  /* margin-top: 100px; */
+  text-align: center;
 }
 
-.sampul_belum_pencet {
-
-    background-color: chocolate;
-
+div.margin-top{
+    height: 13vh;
+    /* background-color: brown; */
 }
 
-.sampul_terpencet {
-    color: cadetblue;
-    background-color: aqua;
-    transition: 1000ms;
-    transform: translateY(-110%);
+
+#background-1{
+  position: absolute;
+  top: 0;
+  right: 0;
+  width: 200px;
+  transform: rotate(180deg);
+}
+
+#background-2{
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 200px;
+  /* transform: rotate(180deg); */
+}
+
+.backgroud-kanan{
+    position: absolute;
+    /* z-index: 101; */
+    top: 0;
+    /* right: 0; */
+    background-color: brown;
+    /* background-image: url("../asset/sampul/rangkaian_bunga.png"); */
+    background-size: contain;
+    background-position-x: 20%;
+    background-position-y: center;
+    background-repeat: no-repeat;
+    width: 100vw;
+    height: 100vh;
+    transform: rotate(180deg);
 }

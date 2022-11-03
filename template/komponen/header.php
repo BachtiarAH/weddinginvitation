@@ -16,11 +16,12 @@
     <script src="js/uk/js/uikit.min.js"></script>
     <script src="js/uk/js/uikit-icons.min.js"></script>
 
-    <!-- css -->
+    
     
 
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@8/swiper-bundle.min.css" />
 
+    <!-- google font -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap" rel="stylesheet">
