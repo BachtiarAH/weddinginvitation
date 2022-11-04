@@ -8,3 +8,47 @@ div.background-atas{
     height: 14%;
     width: 100%;
 }
+
+div.couple-header{
+    position: relative;
+    margin-top: -35%;
+    padding-left: 10%;
+    padding-right: 10%;
+}
+
+.couple-header{
+    font-family: "Dancing-Script", 'Times New Roman', Times;
+    font-size: 40px;
+    color: #FFF7EB;
+    text-align: center;
+}
+
+.bismilah{
+    text-align: center;
+    color: #FFF7EB;
+    margin-top: 15%;
+}
+
+.couple-salam{
+    font-family: "Crimson Pro";
+    font-size: 16px;
+    color: #FFF7EB;
+    text-align: center;
+    margin: 18px 71px 0 70px;
+
+}
+
+.shadow p{
+    text-shadow: 2px 4px 8px grey;
+}
+
+.couple-pembukaan{
+    font-family: "Crimson Pro";
+    color: #FFF7EB;
+    font-size: 16px;
+    padding-left: 23px;
+    padding-right: 23px;
+    text-align: center;
+    margin-top: 5%;
+}
+
