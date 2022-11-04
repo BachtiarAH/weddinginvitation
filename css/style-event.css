@@ -29,7 +29,7 @@
 
 .kotak-event {
     width: 302px;
-    height: 900px;
+    height: 1220px;
     background: white;
     margin: 0;
     box-shadow: 4px 4px #B2B2B2;
@@ -44,4 +44,24 @@
 
 .teksalign-event {
     text-align: center;
+}
+
+a.tombol {
+    -webkit-border-radius: 60;
+    -moz-border-radius: 60;
+    border-radius: 60px;
+    -webkit-box-shadow: 0px 1px 3px #666666;
+    -moz-box-shadow: 0px 1px 3px #666666;
+    box-shadow: 0px 1px 3px #666666;
+    font-family: Georgia;
+    color: #ffffff;
+    font-size: 12px;
+    background: #A7926D;
+    padding: 8px 70px 8px 70px;
+    text-decoration: none;
+}
+
+a.tombol:hover {
+    background: #8a7550;
+    text-decoration: none;
 }
