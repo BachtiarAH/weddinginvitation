@@ -5,11 +5,11 @@
             <p>Wishes</p>
         </div>
         <div class="tekspengertianqs">
-            <p>“And of His signs is that He created for you from
-                yourselves mates that you may find tranquility in
-                them; and he placed between you affection and
-                mercy. indeed in that are signs for a people who give
-                thought.”
+            <p>“And of His signs is that He created for you from <br>
+                yourselves mates that you may find tranquility in <br>
+                them; and he placed between you affection and <br>
+                mercy. indeed in that are signs for a people who give <br>
+                thought.” <br>
                 <br>
                 <br>
                 ( QS. Ar- Rum 21 )
