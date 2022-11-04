@@ -6,7 +6,7 @@
         <div class="margin-top"></div>
 
         <div class="">
-            <p>Kepada yth<br />bapak/1bu/saudara/i </p>
+            <p>Kepada yth<br />bapak/ibu/saudara/i </p>
         </div>
         <div class="tamu">
             <p>

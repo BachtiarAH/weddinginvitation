@@ -12,7 +12,7 @@
         </div>
         <br>
         <div class="kotak-event tengah-event">
-            <img src="asset/event/photoevent.png" alt="photoevent" height="147" width="302">
+            <img src="asset/event/fotopohon.png" alt="fotopohon" height="147" width="302">
             <br>
             <br>
             <div class="tengah-event">

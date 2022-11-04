@@ -6,13 +6,9 @@
         </div>
         <div class="tekspengertianqs">
             <p>“And of His signs is that He created for you from
-                <br>
                 yourselves mates that you may find tranquility in
-                <br>
                 them; and he placed between you affection and
-                <br>
                 mercy. indeed in that are signs for a people who give
-                <br>
                 thought.”
                 <br>
                 <br>
@@ -33,9 +29,7 @@
             </p>
         </div>
         <div class="teks">
-            <p>Keluarga Bapak dr. Rusdi Dziban, Sp.B., FINACS
-                <br>
-                (Alm) dan
+            <p>Keluarga Bapak dr. Rusdi Dziban, Sp.B.,FINACS(Alm) dan
                 <br>
                 Ibu Lina Alfiah Alamudi
                 <br>
