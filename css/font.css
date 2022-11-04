@@ -5,3 +5,14 @@
     url("../asset/font/Dancing_Script/DancingScript-VariableFont_wght.ttf") format("opentype");
     /* url("https://yoursite.com/css/fonts/CustomFont.svg#filename") format("svg"); */
     }
+
+@font-face {
+    font-family: "Crimson Pro";
+    src: url(../asset/font/Crimson_Pro/CrimsonPro-VariableFont_wght.ttf);
+}
+
+@font-face {
+    font-family: "Crimson Pro";
+    src: url(../asset/font/Crimson_Pro/CrimsonPro-Italic-VariableFont_wght.ttf);
+    font-style: italic;
+}
