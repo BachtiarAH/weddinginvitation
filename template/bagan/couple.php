@@ -10,27 +10,32 @@
     </div>
     <div class="frame-perempuan"></div>
     <div class="nama-pengantin">
-        <div class="nama Tshadow"><p>Aisyah Dziban</p></div>
+        <div class="nama Tshadow">
+            <p>Aisyah Dziban</p>
+        </div>
         <div class="detail Tshadow">
-        <p>
-            Putri dari
+            <p>
+                Putri dari
 
-            Bapak dr. Rusdi Dziban, Sp.B., FINACS (Alm)
-            <br>
-            dan
+                Bapak dr. Rusdi Dziban, Sp.B., FINACS (Alm)
+                <br>
+                dan
 
-            Ibu Lina Alfiah Alamudi</p>
+                Ibu Lina Alfiah Alamudi
+            </p>
         </div>
     </div>
     <div class="spacing-dan">- & -</div>
     <div class="frame-laki"></div>
     <div class="nama-pengantin">
         <div class="nama Tshadow">
-        <p >dr. Muhammad Yasir Masyhadi</p></div>
+            <p>dr. Muhammad Yasir Masyhadi</p>
+        </div>
         <div class="detail Tshadow">
-            <p >
+            <p>
                 Putra dari Bapak Farid Masyhadi dan <br>Ibu Hikmalia Masyhadi
             </p>
         </div>
+        <br>
     </div>
 </div>

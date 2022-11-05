@@ -1,6 +1,6 @@
 .nama {
   font-family: "Dancing-Script", cursive;
-  font-size: 96px;
+  font-size: 50px;
   color: #835C23;
   margin: 0;
 }
@@ -21,12 +21,12 @@ div.margin-top {
   /* background-color: brown; */
 }
 
-.tamu{
+.tamu {
   font-family: "Dancing-Script", cursive;
   font-size: 36px;
 }
 
-.undang{
+.undang {
   font-family: "Dancing-Script";
   font-size: 32px;
   margin: 0;
@@ -43,7 +43,7 @@ div.margin-top {
   height: 100vh;
   /* transform: rotate(180deg); */
   background-size: 100%;
-  
+
   background-repeat: no-repeat;
   /* max-width: 1024px; */
 

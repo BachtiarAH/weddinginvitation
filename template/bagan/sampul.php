@@ -21,6 +21,7 @@
             </p>
         </div>
         <p class="undang">Kami mengundang anda<br />dalam acara pernikahan</p>
-        <h1 class="nama">Icha<br />&amp; <br />Yasir</h1>
+        <br><br>
+        <h1 class="nama">Icha & Yasir</h1>
     </div>
 </div>
