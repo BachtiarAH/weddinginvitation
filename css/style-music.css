@@ -1,21 +1,22 @@
-.music{
+.music {
     position: sticky;
     top: 50%;
-    left: 70%;
+    left: 90%;
     border-radius: 50px;
-    background-color: #F2EEE3;
-    
+    background-color: #7b593d;
+
     z-index: 50;
     height: 30px;
     width: 30px;
+    box-shadow: 1px 1px #B2B2B2;
 }
 
-.play-music{
+.play-music {
     background-image: url("../asset/music/music-play.png");
     background-size: cover;
 }
 
-.pause-music{
+.pause-music {
     background-image: url("../asset/music/music-stop.png");
     background-size: cover;
 }

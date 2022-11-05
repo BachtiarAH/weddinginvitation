@@ -12,7 +12,7 @@
         </div>
         <br>
         <div class="kotak-event tengah-event reveal">
-            <img class="" src="asset/event/fotopohon.png" alt="fotopohon" height="147" width="302">
+            <img class="" src="asset/event/fotopohon.png" alt="fotopohon" height="147" width="245">
             <br>
             <br>
             <div class="tengah-event reveal">
@@ -73,13 +73,13 @@
                 <p>Maps</p>
             </div>
             <div class="reveal">
-            <div >
-                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1660.3713271948686!2d114.37424853986948!3d-8.197638355259356!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2dd1451916a6b2d3%3A0x45bc61c625f415eb!2sJl.%20Sindoro%20No.4%2C%20Singotrunan%2C%20Kec.%20Banyuwangi%2C%20Kabupaten%20Banyuwangi%2C%20Jawa%20Timur%2068414!5e0!3m2!1sen!2sid!4v1667406114479!5m2!1sen!2sid" width="230" height="350" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-            </div>
-            <br>
-            <div >
-                <a href="https://goo.gl/maps/Z1tfzctuT4A1Dp228" class="tombol">Buka Map</a>
-            </div>
+                <div>
+                    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1660.3713271948686!2d114.37424853986948!3d-8.197638355259356!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2dd1451916a6b2d3%3A0x45bc61c625f415eb!2sJl.%20Sindoro%20No.4%2C%20Singotrunan%2C%20Kec.%20Banyuwangi%2C%20Kabupaten%20Banyuwangi%2C%20Jawa%20Timur%2068414!5e0!3m2!1sen!2sid!4v1667406114479!5m2!1sen!2sid" width="230" height="350" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                </div>
+                <br>
+                <div>
+                    <a href="https://goo.gl/maps/Z1tfzctuT4A1Dp228" class="tombol">Buka Map</a>
+                </div>
             </div>
         </div>
         <br>
