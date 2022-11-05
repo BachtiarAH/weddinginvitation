@@ -1,10 +1,10 @@
 <div class="whishes">
     <div class="teksalign center">
         <br>
-        <div class="teksjudul">
+        <div class="teksjudul reveal">
             <p>Wishes</p>
         </div>
-        <div class="tekspengertianqs">
+        <div class="tekspengertianqs reveal">
             <p>“And of His signs is that He created for you from <br>
                 yourselves mates that you may find tranquility in <br>
                 them; and he placed between you affection and <br>
@@ -17,18 +17,18 @@
                 --
             </p>
         </div>
-        <div class="kotak tengah">
+        <div class="kotak tengah reveal">
             <img src="asset\wishes\fotoberduailus.png" alt="foto berdua">
         </div>
         <br>
         </br>
-        <div class="teksjudul">
+        <div class="teksjudul reveal">
             <p>Kami Yang
                 <br>
                 Berbahagia
             </p>
         </div>
-        <div class="teks">
+        <div class="teks reveal">
             <p>Keluarga Bapak dr. Rusdi Dziban, Sp.B.,FINACS(Alm) dan
                 <br>
                 Ibu Lina Alfiah Alamudi

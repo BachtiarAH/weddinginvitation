@@ -14,9 +14,9 @@
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js"></script>
 
     <!-- ui kit -->
-    <link rel="stylesheet" href="css/uk/css/uikit.min.css" />
+    <!-- <link rel="stylesheet" href="css/uk/css/uikit.min.css" />
     <script src="js/uk/js/uikit.min.js"></script>
-    <script src="js/uk/js/uikit-icons.min.js"></script>
+    <script src="js/uk/js/uikit-icons.min.js"></script> -->
 
 
 
@@ -38,6 +38,8 @@
     <link rel="stylesheet" href="css/style-prokes.css">
     <link rel="stylesheet" href="css/style-wishes.css">
     <link rel="stylesheet" href="css/style-couple.css">
+    <link rel="stylesheet" href="css/style-music.css">
+    <link rel="stylesheet" href="css/style-animation.css">
 </head>
 
 <body>
