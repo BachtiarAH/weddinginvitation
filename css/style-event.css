@@ -12,7 +12,7 @@
 .teks-event {
     color: #907B57;
     font-family: 'Crimson Pro', cursive;
-    font-size: 12px;
+    font-size: 15px;
 }
 
 .tekssubjudul-event {
@@ -46,6 +46,15 @@
     text-align: center;
 }
 
+.teksleft-event {
+    padding-left: 12%;
+    padding-right: 10%;
+    margin-left: 5%;
+    margin-right: 0%;
+    margin-bottom: 0%;
+    text-align: left;
+}
+
 a.tombol {
     -webkit-border-radius: 60;
     -moz-border-radius: 60;
@@ -64,4 +73,8 @@ a.tombol {
 a.tombol:hover {
     background: #8a7550;
     text-decoration: none;
+}
+
+.teksleft-event img {
+    margin-left: 10px;
 }

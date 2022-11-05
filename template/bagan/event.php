@@ -21,16 +21,28 @@
             <div class="tekssubjudul-event">
                 <p>Akad Nikah</p>
             </div>
-            <div class="teks-event">
-                <p>Selasa, 27 Desember 2022</p>
+            <div class="teks-event teksleft-event">
+                <p>
+                    <img src="asset/event/kalender.png" alt="kalender" height="21" width="21">
+                    Selasa, 27 Desember 2022
+                </p>
             </div>
-            <div class="teks-event">
-                <p>Pukul 12.00 WIB</p>
+            <div class="teks-event teksleft-event">
+                <p>
+                    <img src="asset/event/jam.png" alt="jam" height="21" width="21">
+                    Pukul 12.00 WIB
+                </p>
             </div>
-            <div class="teks-event">
-                <p>Rumah mempelai wanita (Jl<br>
-                    Sindoro no.4, Singotrunan,<br>
-                    Banyuwangi)</p>
+            <div class="teks-event teksleft-event">
+                <p>
+                    <img src="asset/event/lokasi.png" alt="lokasi" height="21" width="21">
+                    Rumah mempelai wanita
+                </p>
+            </div>
+            <div class="teks-event teksleftlebih-event">
+                <p>
+                    (JlSindoro no.4, Singotrunan, Banyuwangi)
+                </p>
             </div>
             <br>
             <div class="tengah-event">
@@ -39,17 +51,26 @@
             <div class="tekssubjudul-event">
                 <p>Resepsi Pernikahan</p>
             </div>
-            <div class="teks-event">
-                <p>Selasa, 27 Desember 2022</p>
+            <div class="teks-event teksleft-event">
+                <p>
+                    <img src="asset/event/kalender.png" alt="kalender" height="21" width="21">
+                    Selasa, 27 Desember 2022
+                </p>
             </div>
-            <div class="teks-event">
-                <p>Pukul 13.00 s.d 16.00 WIB</p>
+            <div class="teks-event teksleft-event">
+                <p>
+                    <img src="asset/event/jam.png" alt="jam" height="21" width="21">
+                    Pukul 13.00 s.d 16.00 WIB
+                </p>
             </div>
-            <div class="teks-event">
-                <p>Rumah mempelai wanita (Jl<br>
-                    Sindoro no.4, Singotrunan,<br>
-                    Banyuwangi, Lokasi halaman<br>
-                    belakang rumah)</p>
+            <div class="teks-event teksleft-event">
+                <p>
+                    <img src="asset/event/lokasi.png" alt="lokasi" height="21" width="21">
+                    Rumah mempelai wanita (Jl
+                    Sindoro no.4, Singotrunan,
+                    Banyuwangi, Lokasi halaman
+                    belakang rumah)
+                </p>
             </div>
             <br>
             <div class="tekssubjudul-event">
