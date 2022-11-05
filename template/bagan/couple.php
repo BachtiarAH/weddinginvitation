@@ -1,15 +1,15 @@
 <div class="couple">
     <div class="background-atas"></div>
-    <div class="couple-header">We Are Getting Married!</div>
-    <div class="bismilah">بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيْم</div>
-    <div class="couple-salam Tshadow">
+    <div class="couple-header reveal">We Are Getting Married!</div>
+    <div class="bismilah reveal">بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيْم</div>
+    <div class="couple-salam Tshadow reveal">
         <p>Assalamu’alaikum Warahmatullaahi Wabarakaatuh</p>
     </div>
-    <div class="couple-pembukaan Tshadow">
+    <div class="couple-pembukaan Tshadow reveal">
         <p>Maha Suci Allah yang telah menciptakan makhluk-Nya berpasang-pasangan. Ya Allah semoga ridho-Mu tercurahkan mengiringi pernikahan kami.</p>
     </div>
-    <div class="frame-perempuan"></div>
-    <div class="nama-pengantin">
+    <div class="frame-perempuan reveal"></div>
+    <div class="nama-pengantin reveal">
         <div class="nama Tshadow">
             <p>Aisyah Dziban</p>
         </div>
@@ -25,9 +25,9 @@
             </p>
         </div>
     </div>
-    <div class="spacing-dan">- & -</div>
-    <div class="frame-laki"></div>
-    <div class="nama-pengantin">
+    <div class="spacing-dan reveal">- & -</div>
+    <div class="frame-laki reveal"></div>
+    <div class="nama-pengantin reveal">
         <div class="nama Tshadow">
             <p>dr. Muhammad Yasir Masyhadi</p>
         </div>
