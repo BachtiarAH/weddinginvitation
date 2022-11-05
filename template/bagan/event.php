@@ -37,10 +37,6 @@
                 <p>
                     <img src="asset/event/lokasi.png" alt="lokasi" height="21" width="21">
                     Rumah mempelai wanita
-                </p>
-            </div>
-            <div class="teks-event teksleftlebih-event">
-                <p>
                     (JlSindoro no.4, Singotrunan, Banyuwangi)
                 </p>
             </div>

@@ -29,7 +29,7 @@
 
 .kotak-event {
     width: 302px;
-    height: 1220px;
+    height: 1300px;
     background: white;
     margin: 0;
     box-shadow: 4px 4px #B2B2B2;
@@ -47,8 +47,9 @@
 }
 
 .teksleft-event {
-    padding-left: 12%;
+    padding-left: 17%;
     padding-right: 10%;
+    margin-top: 0;
     margin-left: 5%;
     margin-right: 0%;
     margin-bottom: 0%;
@@ -76,5 +77,6 @@ a.tombol:hover {
 }
 
 .teksleft-event img {
-    margin-left: 10px;
+    margin-left: -32px;
+    margin-right: 8px;
 }
