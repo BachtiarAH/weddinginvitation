@@ -1,7 +1,7 @@
 <?php
 
 include_once('komponen/header.php');
-include_once('bagan/sampul.php');
+    include_once('bagan/sampul.php');
 ?>
 <div class="isi" id="isi">
     <?php

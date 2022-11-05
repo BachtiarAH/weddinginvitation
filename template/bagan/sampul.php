@@ -1,6 +1,8 @@
 <div class="sampul sampul_belum_pencet" id="awal" onclick="KeatasSampeIlang()">
-    <img id="background-1" src="asset/sampul/background-.png" alt="" srcset="">
-    <img id="background-2" src="asset/sampul/background-.png" alt="" srcset="">
+    <!-- <img id="background-1" src="asset/sampul/background-.png" alt="" srcset=""> -->
+    <!-- <img id="background-2" src="asset/sampul/background-.png" alt="" srcset=""> -->
+    <div class="background-1"></div>
+    <div class="background-2"></div>
 
     <div class="kata-kata">
         <div class="margin-top"></div>

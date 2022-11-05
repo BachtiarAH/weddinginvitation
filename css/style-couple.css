@@ -38,8 +38,12 @@ div.couple-header{
 
 }
 
-.shadow p{
+.Tshadow p{
     text-shadow: 2px 4px 8px grey;
+}
+
+.Tshadow{
+    box-shadow: none;
 }
 
 .couple-pembukaan{
@@ -50,5 +54,51 @@ div.couple-header{
     padding-right: 23px;
     text-align: center;
     margin-top: 5%;
+    
+}
+
+.frame-perempuan{
+    background-image: url("../asset/couple/Frame\ Perempuan.png");
+    max-height: 384px;
+    max-width: 360px;
+    height: 100%;
+    width: 100%;
+}
+
+.nama-pengantin{
+    text-align: center;
+}
+
+.nama-pengantin .nama{
+    font-family: "Dancing-Script";
+    font-size: 32px;
+    color: #FFF7EB;
+}
+
+.nama-pengantin .detail{
+    font-family: "Crimson Pro";
+    font-size: 16px;
+    color: #FFF7EB;
+    margin: 0 10% 0 10% ;
+}
+
+.spacing-dan{
+    font-size: 32px;
+    font-family: "Dancing-Script";
+    color: #FFF7EB;
+    margin: 82px auto 0 auto;
+    padding: 0 85px 0 85px;
+    text-align: center;
+    word-spacing: 45px;
+}
+
+.frame-laki{
+    background-image: url("../asset/couple/Frame\ Laki.png");
+    max-height: 384px;
+    max-width: 360px;
+    height: 100%;
+    width: 100%;
+    margin-top: 23px;
+    margin-bottom: 65px;
 }
 
