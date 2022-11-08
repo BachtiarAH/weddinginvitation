@@ -1,35 +1,35 @@
-div.couple{
+div.couple {
     background-color: #D1BAA3;
     height: 1843px;
 }
 
-div.background-atas{
+div.background-atas {
     background-image: url("../asset/couple/couple-background.png");
     height: 14%;
     width: 100%;
 }
 
-div.couple-header{
+div.couple-header {
     position: relative;
     margin-top: -35%;
     padding-left: 10%;
     padding-right: 10%;
 }
 
-.couple-header{
+.couple-header {
     font-family: "Dancing-Script", 'Times New Roman', Times;
     font-size: 40px;
     color: #FFF7EB;
     text-align: center;
 }
 
-.bismilah{
+.bismilah {
     text-align: center;
     color: #FFF7EB;
     margin-top: 15%;
 }
 
-.couple-salam{
+.couple-salam {
     font-family: "Crimson Pro";
     font-size: 16px;
     color: #FFF7EB;
@@ -38,15 +38,15 @@ div.couple-header{
 
 }
 
-.Tshadow p{
+.Tshadow p {
     text-shadow: 2px 4px 8px grey;
 }
 
-.Tshadow{
+.Tshadow {
     box-shadow: none;
 }
 
-.couple-pembukaan{
+.couple-pembukaan {
     font-family: "Crimson Pro";
     color: #FFF7EB;
     font-size: 16px;
@@ -54,10 +54,10 @@ div.couple-header{
     padding-right: 23px;
     text-align: center;
     margin-top: 5%;
-    
+
 }
 
-.frame-perempuan{
+.frame-perempuan {
     background-image: url("../asset/couple/Frame\ Perempuan.png");
     max-height: 384px;
     max-width: 360px;
@@ -65,24 +65,24 @@ div.couple-header{
     width: 100%;
 }
 
-.nama-pengantin{
+.nama-pengantin {
     text-align: center;
 }
 
-.nama-pengantin .nama{
+.nama-pengantin .nama {
     font-family: "Dancing-Script";
     font-size: 32px;
     color: #FFF7EB;
 }
 
-.nama-pengantin .detail{
+.nama-pengantin .detail {
     font-family: "Crimson Pro";
     font-size: 16px;
     color: #FFF7EB;
-    margin: 0 10% 0 10% ;
+    margin: 0 10% 0 10%;
 }
 
-.spacing-dan{
+.spacing-dan {
     font-size: 32px;
     font-family: "Dancing-Script";
     color: #FFF7EB;
@@ -92,13 +92,12 @@ div.couple-header{
     word-spacing: 45px;
 }
 
-.frame-laki{
+.frame-laki {
     background-image: url("../asset/couple/Frame\ Laki.png");
     max-height: 384px;
     max-width: 360px;
     height: 100%;
     width: 100%;
     margin-top: 23px;
-    margin-bottom: 65px;
+    margin-bottom: 10px;
 }
-

@@ -42,6 +42,6 @@
                 Ibu Hikmalia Masyhadi
             </p>
         </div>
+        <div class="bingkai-bawah center"><img src="asset/home/bingkai-bunga-bawah.png" alt="bingkai bunga"></div>
     </div>
-    <div class="bingkai-bawah center"><img src="asset/home/bingkai-bunga-bawah.png" alt="bingkai bunga"></div>
 </div>

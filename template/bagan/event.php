@@ -1,4 +1,5 @@
 <div class="event">
+    <div class="bingkai-atas center"><img src="asset/home/bingkai-bunga.png" alt="bingkai bunga"></div>
     <div class="teksalign-event center">
         <br>
         <div class="teksjudul-event reveal">
@@ -12,7 +13,7 @@
         </div>
         <br>
         <div class="kotak-event tengah-event reveal">
-            <img class="" src="asset/event/fotopohon.png" alt="fotopohon" height="147" width="245">
+            <img class="" src="asset/event/fotopohon.png" alt="fotopohon" height="147" width="288">
             <br>
             <br>
             <div class="tengah-event reveal">

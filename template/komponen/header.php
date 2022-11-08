@@ -38,6 +38,7 @@
     <link rel="stylesheet" href="css/style-prokes.css">
     <link rel="stylesheet" href="css/style-wishes.css">
     <link rel="stylesheet" href="css/style-couple.css">
+    <link rel="stylesheet" href="css/style-ucapan.css">
     <link rel="stylesheet" href="css/style-music.css">
     <link rel="stylesheet" href="css/style-animation.css">
 </head>
