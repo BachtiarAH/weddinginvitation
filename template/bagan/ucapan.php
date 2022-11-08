@@ -15,7 +15,7 @@
 
         </div>
         <br>
-        <div class="overflow-auto ucapan" id="container-ucapan">
+        <div class="scroll ucapan" id="container-ucapan">
             <div class="teks-ucap teksleft-ucap">
                 <p class="nama-ucap">
                     <img src="asset/ucapan/ucap.png" alt="ucap" height="31" width="31">
