@@ -16,11 +16,6 @@ div.kata-kata {
   top: 15%;
 }
 
-div.margin-top {
-  /* height: 5vh; */
-  /* background-color: brown; */
-}
-
 .tamu {
   font-family: "Dancing-Script", cursive;
   font-size: 36px;
@@ -30,8 +25,6 @@ div.margin-top {
   font-size: 32px;
   margin: 0;
 }
-
-
 
 .background-1 {
   background-image: url("../asset/sampul/background.png");
