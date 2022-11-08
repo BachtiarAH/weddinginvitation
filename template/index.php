@@ -12,6 +12,7 @@ include_once('bagan/music.php');
     include_once('template/bagan/event.php');
     include_once('template/bagan/prokes.php');
     include_once('template/bagan/wishes.php');
+    include_once('template/bagan/ucapan.php');
     ?>
 
 </div>
