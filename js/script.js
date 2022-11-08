@@ -2,6 +2,7 @@ var isPlayed;
 var x = document.getElementById("audio"); 
 var buttonAudio = document.getElementById("button-audio");
 
+
 function KeatasSampeIlang() {
   console.log("clicked");
   document.getElementById("awal").classList.add("sampul_terpencet");
@@ -37,3 +38,6 @@ function clickAudio() {
         pauseAudio();
     }
 }
+
+
+
