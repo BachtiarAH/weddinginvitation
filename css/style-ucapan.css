@@ -89,3 +89,8 @@ select {
     color: #000000;
     border: none;
 }
+
+.ucapan{
+    height: 200px;
+    background-color: white;
+}

@@ -6,24 +6,26 @@
             <p>Kirim Ucapan & Doa Restu</p>
         </div>
         <div>
-            <form>
-                <input type="text" id="fnama" name="namalengkap" placeholder="Nama Lengkap..">
-                <input type="text" id="ucap" name="ucapandoa" placeholder="Tulis Ucapan & Doa Restu..">
-                <br><br>
-                <button type="" class="btn">Kirim</button>
-                <br>
-            </form>
+
+            <input type="text" id="fnama" name="namalengkap" placeholder="nama lengkap">
+            <input type="text" id="ucap" name="ucapandoa" placeholder="ucapan">
+            <br><br>
+            <button type="" class="btn" id="buton-ucapan">Kirim</button>
+            <br>
+
         </div>
         <br>
-        <div class="teks-ucap teksleft-ucap">
-            <p class="nama-ucap">
-                <img src="asset/ucapan/ucap.png" alt="ucap" height="31" width="31">
-                Abdullah Ali
-            </p>
-            <p class="isi-ucap">
-                Barakallahulakuma wa baraka’alaikuma wajama bainakuma fii khair aamiin ya rabbal “alamiin
-            </p>
-            <hr>
+        <div class="overflow-auto ucapan" id="container-ucapan">
+            <div class="teks-ucap teksleft-ucap">
+                <p class="nama-ucap">
+                    <img src="asset/ucapan/ucap.png" alt="ucap" height="31" width="31">
+                    Abdullah Ali
+                </p>
+                <p class="isi-ucap">
+                    Barakallahulakuma wa baraka’alaikuma wajama bainakuma fii khair aamiin ya rabbal “alamiin
+                </p>
+                <hr>
+            </div>
         </div>
         <br>
     </div>

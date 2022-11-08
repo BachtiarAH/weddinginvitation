@@ -49,6 +49,6 @@ function readData()
     }
 }
 
-writeData($_POST['nama'],$_POST['ucapan']);
+// writeData($_POST['nama'],$_POST['ucapan']);
 readData();
 ?>
