@@ -29,4 +29,20 @@ tombol.addEventListener('click', function () {
     xhttp.send("nama=" + nama.value + "&ucapan=" + ucapan.value);
 });
 
+tombol.addEventListener('click', function handleClick(event) {
+    event.preventDefault();
 
+    const inputs = document.querySelectorAll('#fnama, #ucap');
+
+    inputs.forEach(input => {
+        input.value = '';
+    });
+});
+
+function validateForm() {
+    var x = document.forms["ucapForm"]["fnama"]["ucap"].value;
+    if (x == "") {
+        alert("Kotak Harus Terisi");
+        return false;
+    }
+}

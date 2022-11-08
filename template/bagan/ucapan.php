@@ -5,13 +5,12 @@
         <div class="teksjudul-ucap">
             <p>Kirim Ucapan & Doa Restu</p>
         </div>
-        <div>
-
+        <form>
             <input type="text" id="fnama" name="namalengkap" placeholder="Nama Lengkap..">
             <input type="text" id="ucap" name="ucapandoa" placeholder="Ucapan atau Doa..">
             <br><br>
-            <button type="" class="btn" id="buton-ucapan">Kirim</button>
-        </div>
+            <button type="submit" class="btn" id="buton-ucapan">Kirim</button>
+        </form>
         <br>
         <div class="scroll ucapan" id="container-ucapan">
             <div class="teks-ucap teksleft-ucap">
