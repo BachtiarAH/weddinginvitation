@@ -6,14 +6,16 @@
 .teksjudul {
     color: #E3B063;
     font-family: 'Dancing-Script', cursive;
-    font-size: 48px;
+    font-size: 28px;
 }
 
-.tekspengertianqs {
+.teks-wishes {
     color: #835C23;
     font-family: 'Crimson Pro', cursive;
     font-style: italic;
     font-size: 16px;
+    margin-left: 10%;
+    margin-right: 10%;
 }
 
 .teks {

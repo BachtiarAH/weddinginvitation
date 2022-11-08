@@ -1,0 +1,91 @@
+.ucap {
+    width: 100%;
+    background-color: #F2EEE3;
+}
+
+.teksjudul-ucap {
+    color: #E3B063;
+    font-family: 'Dancing-Script', cursive;
+    font-size: 30px;
+}
+
+.teksalign-ucap {
+    text-align: center;
+}
+
+.teksleft-ucap {
+    padding-left: 17%;
+    padding-right: 10%;
+    margin-top: 0;
+    margin-left: 5%;
+    margin-right: 0%;
+    margin-bottom: 0%;
+    text-align: left;
+}
+
+.teksleft-ucap img {
+    margin-left: -41px;
+    margin-right: 8px;
+}
+
+.nama-ucap {
+    color: #835C23;
+    font-family: 'Crimson Pro', cursive;
+    font-style: normal;
+    font-size: 14px;
+    font-weight: 600;
+    margin-bottom: 0;
+}
+
+.isi-ucap {
+    color: #835C23;
+    font-family: 'Crimson Pro', cursive;
+    font-style: normal;
+    font-size: 14px;
+    margin-top: 0;
+}
+
+input[type=text],
+select {
+    width: 80%;
+    padding: 7px 12px;
+    margin: 5px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    box-sizing: border-box;
+    font-size: 12px;
+    margin-bottom: auto;
+}
+
+.teksalign-ucap {
+    text-align: center;
+}
+
+.btn {
+    font-weight: 0;
+    font-size: 13px;
+    color: #fff;
+    background-color: #a7926d;
+    padding: 6px 45px;
+    border: none;
+    box-shadow: rgba(0, 0, 0, 0.02) 0px 1px 3px 0px, rgba(27, 31, 35, 0.15) 0px 0px 0px 1px;
+    border-radius: 6px;
+    transition: 255ms;
+    transform: translateY(0);
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    cursor: pointer;
+    text-transform: lowercase;
+    margin: auto;
+}
+
+.btn:hover {
+    transition: 255ms;
+    padding: 6px 70px;
+    transform: translateY(-0px);
+    background-color: #fff;
+    color: #000000;
+    border: none;
+}

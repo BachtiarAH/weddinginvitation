@@ -1,13 +1,18 @@
 <div class="couple">
     <div class="background-atas"></div>
-    <div class="couple-header reveal">We Are Getting Married!</div>
-    <div class="bismilah reveal">بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيْم</div>
+    <div class="couple-header reveal">
+        We Are Getting Married!
+    </div>
+    <div class="bismilah Tshadow reveal">
+        <p>بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيْم</p>
+    </div>
     <div class="couple-salam Tshadow reveal">
-        <p>Assalamu’alaikum Warahmatullaahi Wabarakaatuh</p>
+        <p>ٱلسَّلَامُ عَلَيْكُمْ وَرَحْمَةُ ٱللَّٰهِ وَبَرَكَاتُهُ</p>
     </div>
     <div class="couple-pembukaan Tshadow reveal">
         <p>Maha Suci Allah yang telah menciptakan makhluk-Nya berpasang-pasangan. Ya Allah semoga ridho-Mu tercurahkan mengiringi pernikahan kami.</p>
     </div>
+    <br>
     <div class="frame-perempuan reveal"></div>
     <div class="nama-pengantin reveal">
         <div class="nama Tshadow">
