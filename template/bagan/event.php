@@ -26,6 +26,8 @@
                 <p>
                     <img src="asset/event/kalender.png" alt="kalender" height="21" width="21">
                     Selasa, 27 Desember 2022
+                    <br>
+                    Selasa, 3 Jumadil Akhir 1444 H
                 </p>
             </div>
             <div class="teks-event teksleft-event reveal">
@@ -52,6 +54,8 @@
                 <p>
                     <img src="asset/event/kalender.png" alt="kalender" height="21" width="21">
                     Selasa, 27 Desember 2022
+                    <br>
+                    Selasa, 3 Jumadil Akhir 1444 H
                 </p>
             </div>
             <div class="teks-event teksleft-event reveal">
