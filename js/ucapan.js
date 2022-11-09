@@ -24,9 +24,15 @@ tombol.addEventListener('click', function () {
         container.innerHTML = this.responseText;
     }
 
-    xhttp.open("POST", "tes.php", true);
-    xhttp.setRequestHeader("Content-type", "application/x-www-form-urlencoded");
-    xhttp.send("nama=" + nama.value + "&ucapan=" + ucapan.value);
+    if (nama.value && ucapan.value) {
+        xhttp.open("POST", "tes.php", true);
+        xhttp.setRequestHeader("Content-type", "application/x-www-form-urlencoded");
+        xhttp.send("nama=" + nama.value + "&ucapan=" + ucapan.value);
+    } else {
+        alert("Tolong isi terlebih dahulu nama dan ucapan :)");
+    }
+
+
 });
 
 tombol.addEventListener('click', function handleClick(event) {
